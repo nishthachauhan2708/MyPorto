@@ -1,4 +1,3 @@
-# MyPorto
 # 💼 Personal Portfolio Website  
 
 A modern and responsive **personal portfolio website** designed to showcase my **skills, projects, achievements, and contact information**.  
@@ -69,6 +68,4 @@ portfolio/
 💻 **GitHub:** https://github.com/nishthachauhan2708
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify it with attribution.  
+ 
